@@ -1,0 +1,77 @@
+.encabezado{
+	height: 300px;
+}
+li{
+	display: inline-block;
+	float: center;
+	margin: 8% -6% 5% 8%; 
+	text-decoration: none;
+	color: black;
+}
+.FondoSemilla{
+	background-image: url("../img/semilla.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+}
+.FondoMetodo{
+	background-image: url("../img/metodo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	float: left;
+	width: 50%;
+	height: 400px;
+}
+.FondoPizarron{
+	background-image: url("../img/fondo.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	float: right;
+	width: 50%;
+	height: 400px;
+}
+.FondoVerde{
+	background-color: #5E8039;
+}
+.Foto{
+	width: 500px;
+	height: auto;
+}
+.TextoFoto{
+	color: white;
+}
+.FondoBlog{
+	background-image: url("../img/fondo2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 500px;
+}
+.Slider1{
+
+}
+.Slider2{
+
+}
+.ImagenBlog{
+	width: 200px;
+	height: auto;
+}
+.FondoNegro{
+	background-color: #4D4D4D;
+	height: 400px;
+}
+.TableRedes{
+	border: 1px solid white;
+	width: 800px;
+	height: 400px;
+}
+.IconosRedes{
+	width: 60px;
+	height: auto;
+}
+.ColumnaTable{
+	width: 200px;
+	border: 1px solid white;
+}
